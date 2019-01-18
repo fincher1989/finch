@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="MyServlet" type="Native" />
       <mapping ext="db" type="Native" />
+      <mapping pattern="alex_test1" type="SQL" />
       <mapping pattern="properties" type="tsconfig" />
     </extensionMap>
   </component>
