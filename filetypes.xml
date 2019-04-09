@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="MyServlet" type="Native" />
+      <mapping ext="db" type="Native" />
     </extensionMap>
   </component>
 </application>
