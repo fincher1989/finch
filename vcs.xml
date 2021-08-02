@@ -14,6 +14,10 @@
           <option name="url" value="git@192.168.180.242:/home/git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="shared@192.168.180.242:/home/shared/storage" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\finch\idea" />
